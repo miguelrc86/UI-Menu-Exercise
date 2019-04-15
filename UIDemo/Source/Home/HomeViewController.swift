@@ -68,4 +68,5 @@ extension HomeViewController: MenuViewControllerDelegate {
         toggleMenu()
         updateDetailController(forMenuOption: option)
     }
+    
 }

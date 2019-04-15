@@ -71,6 +71,7 @@
 			isa = PBXGroup;
 			children = (
 				819B05DA226385E900992CE8 /* Source */,
+				819B05E0226386A000992CE8 /* Resources */,
 				819B05DB226385FE00992CE8 /* Supporting Files */,
 			);
 			path = UIDemo;
@@ -102,7 +103,6 @@
 				819B05C6226383DC00992CE8 /* Main.storyboard */,
 				819B05E32263ACDD00992CE8 /* Detail */,
 				819B05D9226385DB00992CE8 /* Home */,
-				819B05E0226386A000992CE8 /* Resources */,
 				819B05D8226385D700992CE8 /* Menu */,
 			);
 			path = Source;

@@ -8,7 +8,7 @@
 
 import UIKit
 
-class DetailViewController: UITableViewController {
+final class DetailViewController: UITableViewController {
     
     var viewModel = DetailViewModel() {
         didSet {
